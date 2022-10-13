@@ -42,6 +42,7 @@ def rvi():
                                                     file.write(str(data)+"\n")
                        print ("\x1b[1;92m  SUCCESS \x1b[1;96m"+str(data)+"\x1b[1;92m SAVED IN \x1b[1;93m"+str(sfile))
                        time.sleep(.5)
+    os.sys.exit()
 ###MAIN###
 def main():
          os.system("clear")
