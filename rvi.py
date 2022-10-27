@@ -3,7 +3,7 @@
 #SCRIPT KIDDIES NOT ALLOWED
 #IF YOU COPY THIS SCRIPT PLEASE GIVE THE CREDIT TO @D3ADVAU
 #D3ADVAU
-##IMOORTING MODULES##
+##IMPORTING MODULES##
 import os,sys,socket,time
 try:
    import requests
@@ -62,5 +62,6 @@ def main():
          else:
              print ("  \x1b[1;91mWRONG OPTION CHOOSEN PLEASE ENTER  A CORRECT OPTION")
              main()
+###START##
 if __name__ == "__main__":
     main()
